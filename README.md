@@ -3,7 +3,7 @@
 
 Установите Zabbix Server с веб-интерфейсом.
 
-![1.png](https://github.com/anarxim7/Zabbix-Postnikov Igor/blob/main/img/1.png)
+![1.png](https://github.com/anarxim7/Zabbix-Postnikov-Igor/blob/main/img/1.png)
 
 ```
 Поле для вставки кода...
@@ -54,8 +54,8 @@ sudo systemctl enable zabbix-agent
 ....
 ```
 
-![2.png](https://github.com/anarxim7/Zabbix-Postnikov Igor/blob/main/img/2.png)
-![2.1.png](https://github.com/anarxim7/Zabbix-Postnikov Igor/blob/main/img/2.1.png)
-![2.2.png](https://github.com/anarxim7/Zabbix-Postnikov Igor/blob/main/img/2.png)
-![2.3.png](https://github.com/anarxim7/Zabbix-Postnikov Igor/blob/main/img/2.1.png)
+![2.png](https://github.com/anarxim7/Zabbix-Postnikov-Igor/blob/main/img/2.png)
+![2.1.png](https://github.com/anarxim7/Zabbix-Postnikov-Igor/blob/main/img/2.1.png)
+![2.2.png](https://github.com/anarxim7/Zabbix-Postnikov-Igor/blob/main/img/2.2.png)
+![2.3.png](https://github.com/anarxim7/Zabbix-Postnikov-Igor/blob/main/img/2.3.png)
 
